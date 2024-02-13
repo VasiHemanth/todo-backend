@@ -115,7 +115,7 @@ SIMPLE_JWT = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # Add the URL of your Next.js app
-   "https://vk-traders.vercel.app"
+   "https://todo-nextjs-blush.vercel.app"
 ]
 
 # Allow cookies to be included with requests
